@@ -1,7 +1,12 @@
 aid: ppl
-url: https://raw.githubusercontent.com/api-evangelist/ppl/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ppl/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.ppl.com
+description: >-
+  PPL Corporation is a U.S. energy company that delivers electricity and natural gas
+  to customers through its regulated utilities in Pennsylvania, Kentucky, and Rhode
+  Island.
