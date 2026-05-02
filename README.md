@@ -1,5 +1,6 @@
 # PPL (ppl)
-PPL is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for PPL.
+
+PPL Corporation is a U.S. energy company that delivers electricity and natural gas to customers through its regulated utilities in Pennsylvania, Kentucky, and Rhode Island. PPL is a Fortune 500 company. This repository captures the APIs, developer tools, and machine-readable API artifacts for PPL.
 
 **URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ppl/refs/heads/main/apis.yml)
 
@@ -9,14 +10,18 @@ PPL is a Fortune 500 company. This repository captures the APIs, developer tools
 - **Position:** Consuming
 - **Access:** 3rd-Party
 
-## Tags:
+## Tags
 
- - Fortune 500
+- Fortune 500
+- Energy
+- Utilities
+- Electricity
+- Natural Gas
 
 ## Timestamps
 
 - **Created:** 2026-03-21
-- **Modified:** 2026-03-21
+- **Modified:** 2026-04-28
 
 ## APIs
 
