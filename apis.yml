@@ -4,7 +4,7 @@ description: >-
   PPL Corporation is a U.S. energy company that delivers electricity and natural
   gas to customers through its regulated utilities in Pennsylvania, Kentucky,
   and Rhode Island. PPL is a Fortune 500 company.
-type: Contract
+kind: contract
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
   - Fortune 500
