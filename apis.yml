@@ -20,6 +20,8 @@ access: 3rd-Party
 position: Consuming
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/pplcorporation
   - type: Website
     url: https://www.ppl.com
 maintainers:
