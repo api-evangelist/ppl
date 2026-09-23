@@ -1,7 +1,9 @@
 ---
 title: 'PPL Stock: AI Is Making This Utility A Growth Story'
 url: https://www.investors.com/research/the-income-investor/ppl-stock-income-investor-utilities/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PPL" press release artificial intelligence'
 position: 5
 source: serpapi-google
