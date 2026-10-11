@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "ppl",
+    "captured_at": "2026-10-11T192645",
+    "source_url": "https://www.ppl.com",
+    "source_type": "Website",
+    "file": "ppl-2026-10-11T192645.png",
+    "bytes": 75274,
+    "capture": "playwright-local"
+  }
+]
